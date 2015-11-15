@@ -1,0 +1,36 @@
+[submodule "pxc.nix.d"]
+	path = pxc.nix.d
+	url = git@github.com:therealpxc/pxc.nix.d.git
+[submodule "vuizvui"]
+	path = vuizvui
+	url = git@github.com:openlab-aux/vuizvui.git
+[submodule "auntiNeo"]
+	path = auntiNeo
+	url = https://github.com/auntieNeo/nixrc
+[submodule "coreyoconnor"]
+	path = coreyoconnor
+	url = git@github.com:coreyoconnor/nix_configs.git
+[submodule "chaoflow"]
+	path = chaoflow
+	url = https://github.com/chaoflow/nixos-configurations
+[submodule "garbas"]
+	path = garbas
+	url = git@github.com:garbas/nixos-configuration.git
+[submodule "nixos"]
+	path = nixos
+	url = git@github.com:lihop/nixos.git
+[submodule "lihop"]
+	path = lihop
+	url = git@github.com:lihop/nixos.git
+[submodule "pSub"]
+	path = pSub
+	url = git@github.com:pSub/configs.git
+[submodule "7c6f434c"]
+	path = 7c6f434c
+	url = git@github.com:7c6f434c/7c6f434c-configurations.git
+[submodule "jagajaga"]
+	path = jagajaga
+	url = git@github.com:jagajaga/my_configs.git
+[submodule "grwlf"]
+	path = grwlf
+	url = git@github.com:grwlf/nixcfg.git
