@@ -16,9 +16,6 @@
 [submodule "garbas"]
 	path = garbas
 	url = git@github.com:garbas/nixos-configuration.git
-[submodule "nixos"]
-	path = nixos
-	url = git@github.com:lihop/nixos.git
 [submodule "lihop"]
 	path = lihop
 	url = git@github.com:lihop/nixos.git
