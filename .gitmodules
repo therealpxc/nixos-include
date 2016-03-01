@@ -31,3 +31,6 @@
 [submodule "grwlf"]
 	path = grwlf
 	url = git@github.com:grwlf/nixcfg.git
+[submodule "maurer"]
+	path = maurer
+	url = git@github.com:maurer/nixlocal.git
